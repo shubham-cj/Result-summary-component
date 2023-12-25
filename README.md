@@ -17,11 +17,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-######Mobile screenshot -
+####Mobile screenshot -
 ![Mobile Preview Screenshot](https://res.cloudinary.com/diwtxg4ou/image/upload/v1703488159/Frontend%20mentor/Frontend%20Mentor%20-%20QR%20code%20component%20solution/mobile-preview.jpg)
-######Desktop screenshot -
+####Desktop screenshot -
 ![Desktop Preview Screenshot](https://res.cloudinary.com/diwtxg4ou/image/upload/v1703488158/Frontend%20mentor/Frontend%20Mentor%20-%20QR%20code%20component%20solution/desktop-preview.png)
-######Desktop screenshot where cursor on continue button -
+####Desktop screenshot where cursor on continue button -
 ![Desktop Preview Screenshot](https://res.cloudinary.com/diwtxg4ou/image/upload/v1703488159/Frontend%20mentor/Frontend%20Mentor%20-%20QR%20code%20component%20solution/desktop-preview-cursor.png)
 
 ### Links
